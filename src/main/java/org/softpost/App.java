@@ -11,5 +11,6 @@ public class App
 
         System.out.println( "Hello World! This is from softpost app" );
         System.out.println( "this is to test github" );
+        System.out.println( "this is to test 2" );
     }
 }
