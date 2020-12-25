@@ -1,17 +1,17 @@
 package test.java;
-
-
 import static org.junit.Assert.assertTrue;
-
 import org.junit.Test;
 import com.thoughtworks.selenium.Selenium;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.WebDriver;
 import org.junit.After;
 import org.junit.Before;
-
 import static org.junit.Assert.*;
 import static org.apache.commons.lang3.StringUtils.join;
+
+/*
+        this is to test version2.2
+ */
 
 
 public class AppTest{
