@@ -11,7 +11,8 @@ import static org.apache.commons.lang3.StringUtils.join;
 
 /*
         this is to test version2.2
- */
+
+                this is to test version 3.1 */
 
 
 public class AppTest{
@@ -51,6 +52,7 @@ public class AppTest{
         System.setProperty("Webdriver.chrome.driver", "C:\\SeleniumWebdrivers\\chromedriver.exe");
         WebDriver driver=new ChromeDriver();
         driver.get("http://google.ca");
+        System.out.println("this is test v3.1");
         driver.close();
         driver.quit();
 
