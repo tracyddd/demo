@@ -11,6 +11,8 @@ public class App
 
         System.out.println( "Hello World! This is from softpost app" );
         System.out.println( "this is to test github" );
-        System.out.println( "this is to test 2" );
+        System.out.println( "this is to test version2.1" );
+        System.out.println( "this is to test version2.2" );
+        System.out.println( "this is to test version3" );
     }
 }
