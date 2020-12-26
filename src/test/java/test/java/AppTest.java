@@ -22,7 +22,7 @@ public class AppTest{
     public void setUp() throws Exception {
         System.setProperty("webdriver.chrome.driver", "C:\\SeleniumWebdrivers\\chromedriver.exe");
         WebDriver driver = new ChromeDriver();
-        String baseUrl = "http://www.baidu.com/";
+        String baseUrl = "http://www.baidugg.com/";
         driver.get(baseUrl);
         driver.quit();
     }
